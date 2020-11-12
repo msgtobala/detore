@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "729096764768",
+    "firebase_url": "https://detore-2ec41.firebaseio.com",
+    "project_id": "detore-2ec41",
+    "storage_bucket": "detore-2ec41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729096764768:android:278f715452c72d311ff205",
+        "android_client_info": {
+          "package_name": "com.detore.detoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729096764768-g2ke3nq633n8839f07k41308dtora1ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKOe-WK66bpDUkCykV6q5Y4RD8s3M7Ei0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729096764768-g2ke3nq633n8839f07k41308dtora1ld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729096764768-24oblmd4qkoluk34r7j6io29q16co5m8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.detore.detoreapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
